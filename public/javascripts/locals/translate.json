@@ -1,0 +1,14 @@
+{
+  "nl": {
+    "language": "Nederlands",
+    "welcome": "Welkom"
+  },
+  "de": {
+    "language": "Deutsch",
+    "welcome": "Wilkommen"
+  },
+  "en": {
+    "language": "English",
+    "welcome": "Welcome"
+  }
+}

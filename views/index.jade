@@ -1,0 +1,15 @@
+extends layout
+
+block content
+  select(id="langPicker")
+    option( value="nl") NL
+    option( value="de") DE
+    option( value="en") EN
+
+  h1= title
+    | &nbsp;
+    span(data-translate="language")
+  p
+    span(data-translate="welcome")
+    |  to #{title}
+
